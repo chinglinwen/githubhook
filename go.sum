@@ -1,0 +1,5 @@
+github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d/go.mod h1:P2viExyCEfeWGU259JnaQ34Inuec4R38JCyBx2edgD0=
+github.com/koron/go-github-webhook v0.0.0-20150705120715-fd8c61b5db99 h1:VXfv5FnSQV1UYzBHzX0PsqdO4g+0DyydTszhx0DzB/E=
+github.com/koron/go-github-webhook v0.0.0-20150705120715-fd8c61b5db99/go.mod h1:QsucCvHs4fa2IawkhLpASmQB9h9Wo8oIBt7UsACCIRg=
+github.com/michaelmass/goshell v0.0.0-20191008210415-87dd959016d7 h1:kTLkeO4xMZ1TQ5ekXHk5+7nrznFSqOjH4xj7bvvJEqo=
+github.com/michaelmass/goshell v0.0.0-20191008210415-87dd959016d7/go.mod h1:mL+as2cCsfD2OAWdgO5dzUV2edIM76rO8rEBZFxqczM=
