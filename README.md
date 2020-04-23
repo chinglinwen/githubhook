@@ -1,0 +1,2 @@
+# githubhook
+hook for hugo
